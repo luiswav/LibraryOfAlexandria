@@ -1,4 +1,4 @@
 LibraryOfAlexandria
 ===================
 
-LibraryOfAlexandria is a repo which is dedicated to learn new technologies, for example, Angular
+The purpose of this repository is to test git and GitHub operations.
